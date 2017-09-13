@@ -16,7 +16,7 @@ Working pretty well, you can even put it in fonction if you need !
 =======================
 
   * **npm install**, there's a package.json in case you need to get **jQuery** files
-  * You will have to **set** the **modal** in you **HTML** first (aka *copypasta* ;)).
+  * You will have to **set** the **modal** in your **HTML** file first (aka *copypasta* ;)).
   * **Link css**.
   * **Link script**.
 
