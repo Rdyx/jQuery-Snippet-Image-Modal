@@ -10,7 +10,7 @@ $('.myImg').click(function () {
 
 //When clicking on block with .close class, launch the function
 //P.s : it's .closeImg because if you use bootstraps (and maybe other frameworks)
-//There's already a .close frameworks
+//There's already a .close class
 $('.closeImg').click(function () {
     //Hiding the block with .myModal class
     $('#myModal').css("display", "none");
